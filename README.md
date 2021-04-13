@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/28184946/114487598-720a8a00-9c42-11eb-9189-bcf049284e84.png)
+
+[![Mail Badge](https://img.shields.io/badge/-haoruileee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=aliyun:xyisbenben@aliyun.com)]
 - 👋 Hi, I’m @cm940324
 - 👀 I’m interested in basketball,csgo
 - 🌱 I’m currently learning pmp
