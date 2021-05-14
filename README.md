@@ -7,6 +7,7 @@
 
 
 ![info](https://github-readme-stats.vercel.app/api?username=cm940324&show_icons=true&count_private=true&hide=prs&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cm940324&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/cm940324/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cm940324.readme)
 ![Mail Badge](https://img.shields.io/badge/-xyisbenben@aliyun.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=aliyun:xyisbenben@aliyun.com)
