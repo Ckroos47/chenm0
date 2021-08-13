@@ -1,8 +1,8 @@
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/cm940324/navigation/blob/master/img/hello-world.gif" width="30%">
-</p>
+</p> -->
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{chenmo}/count.svg" alt="chenmo :: Visitor's Count" /></p>
 
