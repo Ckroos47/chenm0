@@ -24,5 +24,14 @@
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white">
 </p>
+<p align="center">
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg">
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg">
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg">
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg">
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redis.svg">
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg">
+  <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg">
+</p>
 
 ⭐ From [chenmo](https://github.com/cm940324)
