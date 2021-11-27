@@ -6,8 +6,6 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{chenmo}/count.svg" alt="chenmo :: Visitor's Count" /></p>
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/MacOS-BigSur-2376bc?style=flat-square&logo=apple&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Intellij-Idea-blue?style=flat-square&logo=intellijidea&logoColor=000000">
