@@ -29,4 +29,4 @@
   <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg">
 </p>
 
-⭐ From [chenmo](https://github.com/chenm0)
+⭐ From [chenmo](https://chenm0.github.io/)
